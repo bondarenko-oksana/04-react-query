@@ -1,0 +1,8 @@
+@import "modern-normalize/modern-normalize.css";
+
+:root {
+  --bg: #0f1115;
+  --text: #e6e6e6;
+  --muted: #8a8a8a;
+  --accent: #4c9aff;
+}
