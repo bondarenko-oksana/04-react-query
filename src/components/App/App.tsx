@@ -8,7 +8,7 @@ import SearchBar from '../SearchBar/SearchBar';
 import MovieGrid from '../MovieGrid/MovieGrid';
 import ErrorMessage from '../ErrorMessage/ErrorMessage';
 import MovieModal from '../MovieModal/MovieModal';
-import Pagination from '../Pagination/pagination';
+import Pagination from '../Pagination/Pagination';
 
 import type { Movie } from '../../types/movie';
 import { fetchMovies } from '../../services/movieService';
